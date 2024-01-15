@@ -1,6 +1,7 @@
+import './listado.css'
 const Listado = ({ colaboradores, eliminarColaborador}) => {
     return (
-        <table className="table table-bordered table-striped">
+    <table className="table table-bordered table-striped">
         <thead className="table-dark">
             <tr>
                 <th scope="col">ID</th>

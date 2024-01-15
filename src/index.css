@@ -76,7 +76,7 @@ button:focus-visible {
   align-items: center;
   border-radius: 1rem;
   margin: 2rem;
-  width: 150rem
+  width: 90%
   
   
 }
@@ -100,4 +100,10 @@ button:focus-visible {
 
 .alert1 {
   margin: 0.5rem;
+}
+#root {
+  width: 95%;
+}
+.table {
+  width: 100%;
 }
